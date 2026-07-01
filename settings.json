@@ -1,26 +1,26 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "THE GAY NUGGET",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Forsaken_smp.aternos.me",
+    "port": 13770,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 150,
     "z": 0
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "mayankthagreat"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "yall are noobs except one with trident!",
+        "hmmm maybe mayank is the greatest!"
       ]
     },
     "chat-log": true,
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 100
     }
   },
   "modules": {
